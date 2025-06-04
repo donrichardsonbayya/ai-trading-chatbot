@@ -1,0 +1,11 @@
+User: What's the latest update on NVIDIA stock?
+Bot: 
+2024-06-03: NVIDIA's stock rose 3.8% after strong Q1 earnings. The company reported a 14% YoY increase in revenue, driven by AI chip demand.
+2024-06-02: Goldman Sachs increased its price target on NVIDIA to $1350 citing market leadership in AI hardware.
+2024-06-01: Analysts note NVIDIA’s gaming division also saw a rebound, contributing to EPS growth.
+
+Financials Summary:
+2024-05-30: NVIDIA Q1 revenue: $26.04B (↑14% YoY), EPS: $5.32, operating margin at 52.3%.
+
+Expert Suggestion:
+NVIDIA is showing strength across both data center and gaming sectors. Short-term momentum is bullish, with a $1350 resistance level. Watch for upcoming Fed signals to confirm continuation.
